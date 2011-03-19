@@ -21,7 +21,7 @@ public APIs are subject to change.
 
 Fwrap changed its SCM from Mercurial to Git (github with a mirror on
 sourceforge).  You can access the main development repository 
-`here on github <http://github.com/kwmsmith/fwrap>`_.
+`here on github <http://github.com/fwrap/fwrap>`_.
 
 Download Fwrap
 ==============
@@ -64,7 +64,7 @@ Bug reports, Wiki & Mailing list
 Development
 ===========
 
-`Git repository <http://github.com/kwmsmith/fwrap>`_
+`Git repository <http://github.com/fwrap/fwrap>`_
     To get the latest development version
 
 `Development blog <http://fortrancython.wordpress.com/>`_
